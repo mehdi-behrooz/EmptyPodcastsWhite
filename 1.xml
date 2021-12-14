@@ -1,6 +1,6 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
-<title>Empty Podcast</title>
+<title>Empty Podcast 1</title>
 <atom:link href="https://raw.githubusercontent.com/mehdi-behrooz/EmptyPodcastsWhite/main/1.xml" rel="self" type="application/rss+xml"/>
 <link>https://mehdi.podbean.com</link>
 <description>Empty Podcast</description>
