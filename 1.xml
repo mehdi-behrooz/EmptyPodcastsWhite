@@ -9,7 +9,7 @@
 <language>en</language>
 <copyright>Copyright 2021 All rights reserved.</copyright>
 <category>Art</category>
-<ttl>1440</ttl>
+<ttl>144</ttl>
 <itunes:type>episodic</itunes:type>
 <itunes:subtitle/>
 <itunes:summary/>
@@ -21,9 +21,9 @@
 </itunes:owner>
 <itunes:block>No</itunes:block>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://raw.githubusercontent.com/mehdi-behrooz/EmptyPodcastsWhite/main/IMG_20211110_022035_3fibbe.jpg"/>
+<itunes:image href="https://raw.githubusercontent.com/mehdi-behrooz/EmptyPodcastsWhite/main/logo.jpg"/>
 <image>
-<url>https://raw.githubusercontent.com/mehdi-behrooz/EmptyPodcastsWhite/main/IMG_20211110_022035_3fibbe.jpg</url>
+<url>https://raw.githubusercontent.com/mehdi-behrooz/EmptyPodcastsWhite/main/logo.jpg</url>
 <title>Empty Podcast</title>
 <link>https://mehdi.podbean.com</link>
 <width>144</width>
@@ -53,7 +53,7 @@
 <itunes:duration>00:15</itunes:duration>
 <itunes:episode>2</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
-<itunes:image href="https://raw.githubusercontent.com/mehdi-behrooz/EmptyPodcastsWhite/main/IMG_20211110_022035_3fibbe.jpg"/>
+<itunes:image href="https://raw.githubusercontent.com/mehdi-behrooz/EmptyPodcastsWhite/main/logo.jpg"/>
 </item>
 </channel>
 </rss>
